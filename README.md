@@ -1,0 +1,2 @@
+# domzad
+domashnee zadanie Python
