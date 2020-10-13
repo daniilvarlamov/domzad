@@ -5,4 +5,4 @@ for i in range (2,N) :
 	for j in range (2,N+1) :
 		a = a*i
 		sum = sum + a
-print("Резóлтат", sum)
+print("Результат", sum)
