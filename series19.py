@@ -1,4 +1,4 @@
-N = 6
+N = int(input())
 k = 0
 a = []
 for i in range(N):
